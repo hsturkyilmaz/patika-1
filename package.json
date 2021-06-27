@@ -18,6 +18,9 @@
   "homepage": "https://github.com/arcaglar/patika-1#readme",
   "devDependencies": {
     "browser-sync": "^2.27.3",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "i": "^0.3.6",
+    "npm": "^7.19.0"
   }
 }
