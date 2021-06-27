@@ -1,0 +1,26 @@
+{
+  "name": "patika-1",
+  "version": "1.0.0",
+  "description": "See the project: https://patika-1.vercel.app/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcaglar/patika-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcaglar/patika-1/issues"
+  },
+  "homepage": "https://github.com/arcaglar/patika-1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "i": "^0.3.6",
+    "npm": "^7.19.0"
+  }
+}
